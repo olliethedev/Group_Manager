@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  <item
+        android:id="@+id/action_settings"
+        android:showAsAction="never"
+        android:icon="@drawable/ic_action_settings"
+        android:title="feedback"/>
+    
+    <item
+        android:id="@+id/action_groups"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_groups"
+        android:title="groups"/>
+    <item
+        android:id="@+id/action_newgroup"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_newgroup"
+        android:title="new group"/>
+
+
+</menu>
